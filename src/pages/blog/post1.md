@@ -18,10 +18,11 @@ Finally, focusing on JavaScript can make you a more well-rounded developer. Java
 
 In conclusion, while JavaScript frameworks can be helpful, it's important to remember that they are built on top of JavaScript. By focusing too much on the framework and not enough on the language itself, you may be missing out on the full capabilities of JavaScript. By focusing on the language, you'll be able to understand how the framework works, be more flexible, and become a more well-rounded developer. Here are a few resources to help you dive deeper into JavaScript:
 
-
-1.[Mozilla Developer Network - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-2.[Eloquent JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-3.[JavaScript.info](https://javascript.info/)
+<ol>
+  <li> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">Mozilla Developer Network - JavaScript Guide</a> </li>
+  <li> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide">Eloquent JavaScript</a> </li>
+  <li> <a href="https://javascript.info">JavaScript.info</a> </li>
+</ol>
 
 
 In addition to these resources, you can also find many tutorials and articles on JavaScript on sites such as [FreeCodeCamp](https://www.freecodecamp.org/) and [CodeAcademy](https://www.codecademy.com/)
